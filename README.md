@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, NextJs**
 
-- 👨‍💻 All of my projects are available at [https://rohitumadi.github.io/portfolio](https://rohitumadi.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-v2-eta-blush.vercel.app/](https://portfolio-v2-eta-blush.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
