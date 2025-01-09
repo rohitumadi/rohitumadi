@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitumadi2000" target="blank"><img src="https://img.shields.io/twitter/follow/rohitumadi2000?logo=twitter&style=for-the-badge" alt="rohitumadi2000" /></a> </p>
 
-- 🌱 I’m currently building a fulstack job protal website with React and Supabase
+- 🌱 I’m currently learning about LLMs
 
 - 👨‍💻 All of my projects are available at [https://portfolio-v2-eta-blush.vercel.app/](https://portfolio-v2-eta-blush.vercel.app/)
 
